@@ -1,16 +1,91 @@
-## Hi there 👋
+```markdown id="p8h2kd"
+# 👋 Hi, I'm Abu Rahad Bin Nishan
 
-<!--
-**aburahadbinnishan007-dev/aburahadbinnishan007-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CSE Student | 💻 Python & FastAPI Developer | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+I am a Computer Science and Engineering student at
+**United International University (UIU)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications, AI-powered solutions,
+chatbots and software projects that solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 🐍 Python Developer
+- ⚡ FastAPI Developer
+- 🤖 AI & Chatbot Enthusiast
+- 🌐 Web Development Learner
+- 🌱 Currently learning Full-Stack Development
+- 💼 Open to Freelance Opportunities
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- Python
+- C
+- C++
+- Java
+- JavaScript
+
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- FastAPI
+- REST APIs
+
+### AI & Development
+- Artificial Intelligence
+- Machine Learning
+- Chatbot Development
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 UIU Admission Chatbot
+
+AI-powered university admission chatbot built with
+**Python and FastAPI** to answer admission-related queries.
+
+🔗 [View Repository](https://github.com/aburahadbinnishan007-dev/ai-admission-chatbot)
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Responsive personal portfolio website built using
+**HTML, CSS and JavaScript**.
+
+🔗 [View Repository](https://github.com/aburahadbinnishan007-dev/portfolio-website)
+
+🌍 [Live Portfolio](https://aburahadbinnishan007-dev.github.io/portfolio-website/)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aburahadbinnishan007-dev&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** aburahadbinnishan007@gmail.com
+
+🐙 **GitHub:**  
+https://github.com/aburahadbinnishan007-dev
+
+🌐 **Portfolio:**  
+https://aburahadbinnishan007-dev.github.io/portfolio-website/
+
+---
+
+### ⭐ Thanks for visiting my profile!
+```
